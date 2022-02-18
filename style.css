@@ -1,0 +1,65 @@
+*{
+    margin-left: auto;
+    margin-right: auto; 
+}
+button:hover{
+background-color: white;
+color:rgb(255, 51, 61);
+font-weight: bold;
+}
+
+table{
+align-self: center;
+color: white;
+}
+
+image{
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+}
+button{
+    background-color:rgb(255, 51, 61);
+    font-size: 15px;
+    padding: 10px 24px;
+    box-shadow: 0 12px 12px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: white;
+        }
+h1 {text-align: center;
+    font-weight: 1500;
+    font-size : 50px;
+    font-family : 'Roboto Mono', monospace;
+    color:black
+}
+
+h2 {text-align: center;
+    font-weight: 1500;
+    font-size : 35px;
+    font-family : 'Roboto Mono', monospace;
+    color:black
+}
+
+.Links {text-align: center;
+    font-weight: 1500;
+    font-size : 30px;
+    font-family : 'Roboto Mono', monospace;
+    color:blue
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.text {
+    display: block;
+    width: 1000px;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
